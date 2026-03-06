@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Ghhwert
-- 👀 I’m interested in everything cpp.
-- 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on X
-- 📫 How to reach me X
-
-<!---
-Ghhwert/Ghhwert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Ghhwert
+I’m currently developing a fabric mod for 1.21 called 'Ominous Encounters'. I would like to ask you to take a look and give me criticism.
+This project was started on 06/03/2026 in order to learn more about programming. I make all the assets myself as well as the backend.
+Thanks for reading!
